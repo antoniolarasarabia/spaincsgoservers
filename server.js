@@ -10,7 +10,7 @@ const Gamedig = require('gamedig');
 
 
 
-var port = 7171;
+var port = 80;
 app.set('port', port);
 
 const server = http.createServer(app);
