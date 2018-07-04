@@ -30,7 +30,7 @@ function intervalFunc() {
     obtenerServidores();
 }
   
-setInterval(intervalFunc, 90000);
+setInterval(intervalFunc, 300000);
 
 function obtenerServidores(){
 
