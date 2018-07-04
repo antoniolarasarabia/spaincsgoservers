@@ -1,0 +1,8 @@
+https://developer.valvesoftware.com/wiki/Talk:Master_Server_Query_Protocol
+https://developer.valvesoftware.com/wiki/Master_Server_Query_Protocol#Implementations
+
+https://github.com/raine/vmsq
+
+https://github.com/runk/node-maxmind
+
+https://github.com/sonicsnes/node-gamedig

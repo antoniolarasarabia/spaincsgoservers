@@ -1,0 +1,19 @@
+{
+  "name": "serverlist",
+  "version": "1.0.0",
+  "description": "API to get CSGO Server List",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Lara Sarabia",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "gamedig": "^1.0.46",
+    "maxmind": "^2.7.0",
+    "request": "^2.81.0",
+    "vmsq": "^2.1.0"
+  }
+}
